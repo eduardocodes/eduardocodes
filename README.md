@@ -27,7 +27,6 @@ I’m a passionate Full Stack Developer who enjoys turning ideas into real produ
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
