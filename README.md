@@ -2,10 +2,6 @@
 
 Full Stack Developer with **5+ years of experience** building modern applications using **TypeScript**, **React**, **React Native** and **Node.js**.  
 
-## 👨‍💻 About Me  
-
-I’m a passionate Full Stack Developer who enjoys turning ideas into real products.</br>Beyond coding, I’m also a **content creator on [YouTube](https://www.youtube.com/@PensandoArtificial)**, where I share insights on development and the world of software creation.</br>I love exploring new technologies, solving complex problems, and contributing to projects that make a difference.
-
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
 <h3>💻 &nbsp;Front-end:</h3>
