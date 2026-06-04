@@ -1,6 +1,6 @@
 # Hello, I'm Eduardo Varjão! 👋  
 
-Full Stack Developer with **4+ years of experience** building modern applications using **TypeScript**, **React**, **React Native** and **Node.js**.  
+Full Stack Developer with **5+ years of experience** building modern applications using **TypeScript**, **React**, **React Native** and **Node.js**.  
 
 ## 👨‍💻 About Me  
 
