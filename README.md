@@ -1,7 +1,5 @@
 # Hello, I'm Eduardo Varjão! 👋  
 
-Full Stack Developer with **5+ years of experience** building modern applications using **TypeScript**, **React**, **React Native** and **Node.js**.  
-
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
 <h3>💻 &nbsp;Front-end:</h3>
@@ -21,8 +19,6 @@ Full Stack Developer with **5+ years of experience** building modern application
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=00ADD8)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
