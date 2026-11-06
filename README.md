@@ -1,6 +1,6 @@
 # Hello, I'm Eduardo Varjão! 👋  
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+<a href="https://thegitcity.com/dev/eduardocodes"><img src="https://thegitcity.com/api/share-card/eduardocodes" alt="Eduardo Varjão on Git City" width="100%" /></a>
 
 <h3>💻 &nbsp;Front-end:</h3>
 
